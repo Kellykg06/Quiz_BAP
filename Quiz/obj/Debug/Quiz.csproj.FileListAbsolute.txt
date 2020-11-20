@@ -1,0 +1,27 @@
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\bin\Debug\Quiz.exe.config
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\bin\Debug\Quiz.exe
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\bin\Debug\Quiz.pdb
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\obj\Debug\Quiz.FrmEnqueryData.resources
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\obj\Debug\Quiz.exe
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\obj\Debug\Quiz.pdb
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\obj\Debug\Quiz.FrmFilter.resources
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\bin\Debug\Dapper.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\bin\Debug\Dapper.xml
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\obj\Debug\Quiz.csproj.CopyComplete
+D:\UPH\Semester 7\(4) Business Application Programming\Quiz - Template\Quiz\bin\Debug\Quiz.exe.config
+D:\UPH\Semester 7\(4) Business Application Programming\Quiz - Template\Quiz\bin\Debug\Quiz.exe
+D:\UPH\Semester 7\(4) Business Application Programming\Quiz - Template\Quiz\bin\Debug\Quiz.pdb
+D:\UPH\Semester 7\(4) Business Application Programming\Quiz - Template\Quiz\bin\Debug\Dapper.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Quiz - Template\Quiz\bin\Debug\Dapper.xml
+D:\UPH\Semester 7\(4) Business Application Programming\Quiz - Template\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+D:\UPH\Semester 7\(4) Business Application Programming\Quiz - Template\Quiz\obj\Debug\Quiz.FrmEnqueryData.resources
+D:\UPH\Semester 7\(4) Business Application Programming\Quiz - Template\Quiz\obj\Debug\Quiz.FrmFilter.resources
+D:\UPH\Semester 7\(4) Business Application Programming\Quiz - Template\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+D:\UPH\Semester 7\(4) Business Application Programming\Quiz - Template\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+D:\UPH\Semester 7\(4) Business Application Programming\Quiz - Template\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+D:\UPH\Semester 7\(4) Business Application Programming\Quiz - Template\Quiz\obj\Debug\Quiz.csproj.CopyComplete
+D:\UPH\Semester 7\(4) Business Application Programming\Quiz - Template\Quiz\obj\Debug\Quiz.exe
+D:\UPH\Semester 7\(4) Business Application Programming\Quiz - Template\Quiz\obj\Debug\Quiz.pdb
