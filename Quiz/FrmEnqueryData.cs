@@ -16,6 +16,7 @@ namespace Quiz
    {
 
         private TMahasiswa set = new TMahasiswa("", "", "", "", "", "");
+        private TMahasiswa _objMhs = null;
         public FrmEnqueryData()
          {
             InitializeComponent();
@@ -130,6 +131,33 @@ namespace Quiz
                     row.Cells[4].Value = returnValue.WaktuKuliah;
                     row.Cells[5].Value = returnValue.Kelas;
                 }
+            }
+        }
+
+        private void btnReport_Click(object sender, EventArgs e)
+        {
+            if(this.dgvData.Rows.Count > 0)
+            {
+                List<TMahasiswa> listData = new List<TMahasiswa>();
+                foreach(DataGridViewRow row in this.dgvData.Rows)
+                {
+                    string nim = row.Cells[0].Value.ToString().Trim();
+                    string nama = row.Cells[1].Value.ToString().Trim();
+                    string jeniskelamin = row.Cells[2].Value.ToString().Trim();
+                    string programstudi = row.Cells[3].Value.ToString().Trim();
+                    string waktukuliah = row.Cells[4].Value.ToString().Trim();
+                    string kelas = row.Cells[5].Value.ToString().Trim();
+                    listData.Add(new TMahasiswa(nim, nama, jeniskelamin, programstudi, waktukuliah, kelas)
+                    {
+                        Nim = nim,
+                        Nama = nama,
+                        Kelas = kelas,
+                        ProgramStudi = programstudi,
+                        WaktuKuliah = waktukuliah,
+                    });
+                }
+                FrmReportMahasiswa form = new FrmReportMahasiswa(listData);
+                form.ShowDialog();
             }
         }
     }

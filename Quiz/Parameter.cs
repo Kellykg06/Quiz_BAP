@@ -16,7 +16,7 @@ namespace Quiz
             SqlConnectionStringBuilder connStringBuilder = new SqlConnectionStringBuilder
             {
                 DataSource = @".\sqlexpress",
-                InitialCatalog = @"DB_Sample",
+                InitialCatalog = @"DB_Sample1",
                 IntegratedSecurity = true
             };
             _connString = connStringBuilder.ToString();

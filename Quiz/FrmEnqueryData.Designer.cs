@@ -40,6 +40,7 @@ namespace Quiz
             this.btnFilter = new System.Windows.Forms.Button();
             this.lblBanyakRecordData = new System.Windows.Forms.Label();
             this.lblFilter = new System.Windows.Forms.Label();
+            this.btnReport = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvData)).BeginInit();
             this.SuspendLayout();
             // 
@@ -152,11 +153,23 @@ namespace Quiz
             this.lblFilter.Text = "{ filter items }";
             this.lblFilter.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
+            // btnReport
+            // 
+            this.btnReport.Location = new System.Drawing.Point(1228, 61);
+            this.btnReport.Margin = new System.Windows.Forms.Padding(4);
+            this.btnReport.Name = "btnReport";
+            this.btnReport.Size = new System.Drawing.Size(100, 28);
+            this.btnReport.TabIndex = 4;
+            this.btnReport.Text = "Report";
+            this.btnReport.UseVisualStyleBackColor = true;
+            this.btnReport.Click += new System.EventHandler(this.btnReport_Click);
+            // 
             // FrmEnqueryData
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1344, 629);
+            this.Controls.Add(this.btnReport);
             this.Controls.Add(this.lblFilter);
             this.Controls.Add(this.lblBanyakRecordData);
             this.Controls.Add(this.btnFilter);
@@ -184,6 +197,7 @@ namespace Quiz
       private System.Windows.Forms.Button btnFilter;
       private System.Windows.Forms.Label lblBanyakRecordData;
       private System.Windows.Forms.Label lblFilter;
-   }
+        private System.Windows.Forms.Button btnReport;
+    }
 }
 
